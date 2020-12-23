@@ -1,16 +1,25 @@
-### Hi there 👋
+# Notable projects
 
-<!--
-**Apostolique/Apostolique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gamedev
 
-Here are some ideas to get you started:
+* [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - UI library for MonoGame.
+* [Apos.Input](https://github.com/Apostolique/Apos.Input) - Input library for MonoGame.
+* [Apos.Framework](https://github.com/Apostolique/Apos.Framework) - C# Templates that I use for new MonoGame projects.
+* [AposGameStarter](https://github.com/Apostolique/AposGameStarter) - MonoGame project starter. Common files to help create a game faster.
+* [Apos.Content](https://github.com/Apostolique/Apos.Content) - Content builder library for MonoGame.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+
+* [BinaryInput](https://github.com/Apostolique/BinaryInput) - Proof of concept for writing text on limited devices.
+* [Vyne language](https://github.com/Apostolique/Vyne-Language) - Vyne programming language.
+* [Texo](https://github.com/Apostolique/Texo) - Music composition software.
+
+## Games
+
+* [ProjectCore](https://github.com/Apostolique/MonoGameJamProject) - Made during a MonoGame jam.
+* [Looking for Group](https://github.com/Apostolique/Dragon46) - Made for the Ludum Dare 46.
+* [AposChess](https://github.com/Apostolique/AposChess) - A chess variant that might or might not be fun.
+
+## Other
+
+* [apos-docs](https://github.com/Apostolique/apos-docs) - Documentation static site generator.
