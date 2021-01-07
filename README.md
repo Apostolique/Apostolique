@@ -24,3 +24,13 @@
 ## Other
 
 * [apos-docs](https://github.com/Apostolique/apos-docs) - Documentation static site generator.
+
+## Social
+
+* [Discord](https://discord.rashtal.com/)
+* [GitHub](https://github.com/Apostolique)
+* [Personal Site](https://jeandavidmoisan.com/)
+* [SoundCloud](https://soundcloud.com/jeandavidmoisan)
+* [Twitch](https://www.twitch.tv/apostolique)
+* [Twitter](https://twitter.com/JeanDavidMoisan)
+* [YouTube](https://www.youtube.com/jeandavidmoisan)
