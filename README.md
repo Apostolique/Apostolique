@@ -24,6 +24,7 @@
 ## Other
 
 * [apos-docs](https://github.com/Apostolique/apos-docs) - Documentation static site generator.
+* [MotivationTracker](https://github.com/Apostolique/MotivationTracker) - Simple application to track days working on something.
 
 ## Social
 
