@@ -30,6 +30,7 @@
 
 * [Discord](https://discord.rashtal.com/)
 * [GitHub](https://github.com/Apostolique)
+* [Glimesh](https://glimesh.tv/Apos)
 * [Personal Site](https://jeandavidmoisan.com/)
 * [SoundCloud](https://soundcloud.com/jeandavidmoisan)
 * [Twitch](https://www.twitch.tv/apostolique)
