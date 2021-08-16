@@ -27,11 +27,10 @@
 * [apos-docs](https://github.com/Apostolique/apos-docs) - Documentation static site generator.
 * [MotivationTracker](https://github.com/Apostolique/MotivationTracker) - Simple application to track days working on something.
 
-## Social
+## Socials
 
 * [Discord](https://discord.rashtal.com/)
 * [GitHub](https://github.com/Apostolique)
-* [Glimesh](https://glimesh.tv/Apos)
 * [Personal Site](https://jeandavidmoisan.com/)
 * [SoundCloud](https://soundcloud.com/jeandavidmoisan)
 * [Twitch](https://www.twitch.tv/apostolique)
