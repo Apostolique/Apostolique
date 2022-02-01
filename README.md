@@ -5,13 +5,14 @@
 * [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - UI library for MonoGame.
 * [Apos.Input](https://github.com/Apostolique/Apos.Input) - Input library for MonoGame.
 * [Apos.Shapes](https://github.com/Apostolique/Apos.Shapes) - Shape rendering in MonoGame.
+* [Apos.Tweens](https://github.com/Apostolique/Apos.Tweens) - Tweening library for MonoGame.
 * [Apos.Framework](https://github.com/Apostolique/Apos.Framework) - C# Templates that I use for new MonoGame projects.
 * [AposGameStarter](https://github.com/Apostolique/AposGameStarter) - MonoGame project starter. Common files to help create a game faster.
-* [Apos.Content](https://github.com/Apostolique/Apos.Content) - Content builder library for MonoGame.
 
 ## Research
 
 * [BinaryInput](https://github.com/Apostolique/BinaryInput) - Proof of concept for writing text on limited devices.
+* [Mitten](https://github.com/Apostolique/Mitten) - Infinite canvas drawing application.
 * [Vyne language](https://github.com/Apostolique/Vyne-Language) - Vyne programming language.
 * [Texo](https://github.com/Apostolique/Texo) - Music composition software.
 
