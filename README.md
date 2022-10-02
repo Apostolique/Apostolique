@@ -3,7 +3,7 @@
 ## Gamedev
 
 * [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - UI library for MonoGame.
-* [Apos.Input](https://github.com/Apostolique/Apos.Input) - Input library for MonoGame.
+* [Apos.Input](https://github.com/Apostolique/Apos.Input) - Polling input library for MonoGame.
 * [Apos.Shapes](https://github.com/Apostolique/Apos.Shapes) - Shape rendering in MonoGame.
 * [Apos.Tweens](https://github.com/Apostolique/Apos.Tweens) - Tweening library for MonoGame.
 * [Apos.Camera](https://github.com/Apostolique/Apos.Camera) - Camera library for MonoGame.
