@@ -31,7 +31,7 @@
 
 ## Socials
 
-* [Discord](https://discord.rashtal.com/)
+* [Discord](http://discord.rashtal.com/)
 * [GitHub](https://github.com/Apostolique)
 * [Personal Site](https://jeandavidmoisan.com/)
 * [SoundCloud](https://soundcloud.com/jeandavidmoisan)
